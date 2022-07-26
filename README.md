@@ -78,7 +78,7 @@ Apart from that I am quite proficient Data Strutures & Algorithms. Below are the
 </br>
 
 **Furthermore:**
-- 👨🏼‍💻 Interest in competitive programming
+- 👨🏼‍💻 Interests include competitive programming, Blockchain, Piano🎹
 - 🛠 Currently working with Kotlin, Java, C++, Python, Flutter.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Reach me @ dshwetank1@gmail.com, ugshwetank@gmail.com
