@@ -75,6 +75,7 @@ Apart from that I am quite proficient Data Strutures & Algorithms. Below are the
 <br/>
 <br/>
 <br/>
+</br>
 
 **Furthermore:**
 - 👨🏼‍💻 Interest in competitive programming
