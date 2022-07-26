@@ -1,4 +1,9 @@
-### Hi there 👋, I'm Shwetank!
+## Hi there 👋, I'm Shwetank!
+ <p>   </p> --- Software Development Engineer
+
+<br/>
+
+#### Social Links
 
 <a href="https://www.linkedin.com/in/shwetank07/">
   <img align="left" alt="Shwetank's LinkdeIN" width="40px" src="https://img.icons8.com/nolan/2x/linkedin.png" />
@@ -11,7 +16,7 @@
 <br />
 <br />
 
-I am a ECE graduate skilled in software development, debugging, design, and testing. I'm a strong team player who is able to quickly learn and apply new technologies. currently working as Software Development Engineer - 1 @ RARA NOW, in the Android Development Team.
+I am a ECE graduate skilled in software development, debugging, design, and testing. I'm a strong team player who is able to learn and apply new technologies efficiently. currently working as Software Development Engineer - 1 @ RARA NOW, in the Android Development Team.
 
 Apart from that I am quite proficient Data Strutures & Algorithms. Below are the coding profiles
 
@@ -29,7 +34,7 @@ Apart from that I am quite proficient Data Strutures & Algorithms. Below are the
   <img align="left" alt="Shwetank's HackerRank" width="40px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" />
 </a>
 
-  <img align="right" height="350" width="350" alt="GIF" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
+  <img align="right" height="350" width="450" alt="GIF" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 <br/>
 <br/>
@@ -37,11 +42,45 @@ Apart from that I am quite proficient Data Strutures & Algorithms. Below are the
 <br/>
 
 
-**About me:**
 
+
+
+### Languages and Tools:
+<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png" />
+
+<img align="left" alt="Python" width="26px" src="https://img.icons8.com/fluency/240/000000/python.png" />
+<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/480/000000/java-coffee-cup-logo--v1.png" />
+
+<img align="left" alt="Kotlin" width="26px" src="https://img.icons8.com/color/480/000000/kotlin.png" />
+
+<img align="left" alt="Dart" width="26px" src="https://img.icons8.com/color/480/000000/dart.png" />
+
+<img align="left" alt="flutter" width="26px" src="https://img.icons8.com/fluency/240/000000/flutter.png" />
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="android" width="26px" src="https://img.icons8.com/color/480/000000/android-os.png" />
+
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/3d-fluency/100/000000/3d-fluency-github-logo.png" />
+
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+
+<br/>
+<br/>
+<br/>
+
+**Furthermore:**
+- 👨🏼‍💻 Interest in competitive programming
 - 🛠 Currently working with Kotlin, Java, C++, Python, Flutter.
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: dshwetank1@gmail.com, ugshwetank@gmail.com
+- 📫 Reach me @ dshwetank1@gmail.com, ugshwetank@gmail.com
 <!--
 <br />
 ![Shwetank's github stats](https://github-readme-stats.vercel.app/api?username=shwetank0714&show_icons=true&hide_border=true)
