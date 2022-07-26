@@ -34,7 +34,7 @@ Apart from that I am quite proficient Data Strutures & Algorithms. Below are the
   <img align="left" alt="Shwetank's HackerRank" width="40px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" />
 </a>
 
-  <img align="right" height="350" width="500" alt="GIF" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+  <img align="right" height="350" width="470" alt="GIF" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 <br/>
 <br/>
