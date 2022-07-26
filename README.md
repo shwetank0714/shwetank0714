@@ -34,7 +34,7 @@ Apart from that I am quite proficient Data Strutures & Algorithms. Below are the
   <img align="left" alt="Shwetank's HackerRank" width="40px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" />
 </a>
 
-  <img align="right" height="350" width="470" alt="GIF" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+  <img align="right" height="350" width="460" alt="GIF" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 <br/>
 <br/>
@@ -78,10 +78,11 @@ Apart from that I am quite proficient Data Strutures & Algorithms. Below are the
 </br>
 
 **Furthermore:**
-- 👨🏼‍💻 Interests include competitive programming, Blockchain, Piano🎹
+- 👨🏼‍💻 Interests include competitive programming, Blockchain
 - 🛠 Currently working with Kotlin, Java, C++, Python, Flutter.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Reach me @ dshwetank1@gmail.com, ugshwetank@gmail.com
+- 🎹 Piano Player
 <!--
 <br />
 ![Shwetank's github stats](https://github-readme-stats.vercel.app/api?username=shwetank0714&show_icons=true&hide_border=true)
