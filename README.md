@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Shwetank!
- <p>   </p> --- Software Development Engineer
+&nbsp;&nbsp; - Software Development Engineer   &nbsp;&nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shwetank14&show_icons=true&theme=radical&count_private=true&card_width=70) &nbsp; &nbsp; &nbsp; 
 
 <br/>
 
@@ -21,7 +21,7 @@
 I am a ECE graduate skilled in software development, debugging, design, and testing. I'm a strong team player who is able to learn and apply new technologies efficiently. currently working as Software Development Engineer - 1 @ RARA NOW, in the Android Development Team.
 <br/>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shwetank14&show_icons=true&theme=radical&count_private=true&card_height=70) &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shwetank0714&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+ 
 
 
 
@@ -85,6 +85,8 @@ Apart from that I am quite proficient in Data Strutures & Algorithms. Below are 
 <br/>
 <br/>
 </br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shwetank0714&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 **Furthermore:**
 - 👨🏼‍💻 Interests include competitive programming, Blockchain
