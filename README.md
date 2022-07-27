@@ -98,3 +98,5 @@ Apart from that I am quite proficient in Data Strutures & Algorithms. Below are 
 <br />
 ![Shwetank's github stats](https://github-readme-stats.vercel.app/api?username=shwetank0714&show_icons=true&hide_border=true)
 -->
+
+![snake gif](https://github.com/shwetank0714/shwetank0714/blob/output/github-contribution-grid-snake.svg)
