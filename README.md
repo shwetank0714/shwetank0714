@@ -16,9 +16,18 @@
 <br />
 <br />
 
-I am a ECE graduate skilled in software development, debugging, design, and testing. I'm a strong team player who is able to learn and apply new technologies efficiently. currently working as Software Development Engineer - 1 @ RARA NOW, in the Android Development Team.
 
-Apart from that I am quite proficient Data Strutures & Algorithms. Below are the coding profiles
+
+I am a ECE graduate skilled in software development, debugging, design, and testing. I'm a strong team player who is able to learn and apply new technologies efficiently. currently working as Software Development Engineer - 1 @ RARA NOW, in the Android Development Team.
+<br/>
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shwetank14&show_icons=true&theme=radical&count_private=true&card_height=70) &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shwetank0714&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+
+<br/>
+
+Apart from that I am quite proficient in Data Strutures & Algorithms. Below are my coding profiles.
 
 <a href="https://leetcode.com/dshwetank1/">
   <img align="left" alt="Shwetank's LeetCode" width="40px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" />
