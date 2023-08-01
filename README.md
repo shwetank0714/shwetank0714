@@ -35,10 +35,6 @@ Apart from that I am quite proficient in Data Strutures & Algorithms. Below are 
 <a href="https://auth.geeksforgeeks.org/user/dshwetank1/practice/">
   <img align="left" alt="Shwetank's GeeksForGeeks" width="40px" src="https://img.icons8.com/color/480/000000/GeeksforGeeks.png" />
 </a>
-<a href="https://www.codechef.com/users/pitamaha007">
-  <img align="left" alt="Shwetank's CodeChef" width="40px" src="https://img.icons8.com/fluency/240/000000/codechef.png" />
-</a>
-
 <a href="https://www.hackerrank.com/Shwetank_14">
   <img align="left" alt="Shwetank's HackerRank" width="40px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" />
 </a>
