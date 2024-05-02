@@ -18,7 +18,7 @@
 
 
 
-I am a ECE graduate skilled in software development, debugging, design, and testing. I'm a strong team player who is able to learn and apply new technologies efficiently. currently working as Software Development Engineer - 1 @ RARA NOW, in the Software Development Team.
+I am a ECE graduate skilled in software development, debugging, design, and testing. I'm a strong team player who is able to learn and apply new technologies efficiently. currently working as Product Engineer.
 <br/>
 
  
